@@ -10,3 +10,14 @@
 **# day1**
 <img width="1512" height="982" alt="Screenshot 2026-09-22 at 2 11 03 PM" src="https://github.com/user-attachments/assets/0352d28e-3404-49e0-9194-b42227d9c68c" />
 
+**HTML CSS Course**
+https://youtu.be/HGTJBPNC-Gw?si=Lh5qh5p7EbqKMFHi
+
+**Js Course**
+https://youtu.be/lfmg-EJ8gm4?si=VaVGA_anzKFL2rvQ
+
+**php course**
+https://youtu.be/zZ6vybT1HQs?si=n3zjWaSDrUKTy9aC
+
+**mysql**
+https://youtu.be/5OdVJbNCSso?si=Jxc6nL9WIuHSzB4x
