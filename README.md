@@ -1,4 +1,6 @@
-**sample plant care site**
+**#final project plant care#**
+<img width="1512" height="982" alt="Screenshot 2026-09-30 at 12 04 16 PM" src="https://github.com/user-attachments/assets/25e97e41-d602-4db8-b739-9dd8dfcb65d1" />
+**#sample plant care site#**
 <img width="1512" height="982" alt="Screenshot 2026-09-30 at 11 37 12 AM" src="https://github.com/user-attachments/assets/0b34fe3a-dd12-4cf7-bd31-96ee922bbec2" />
 <img width="1512" height="982" alt="Screenshot 2026-09-30 at 11 37 09 AM" src="https://github.com/user-attachments/assets/b8c4db1a-1577-4430-b841-c592831208fc" />
 
