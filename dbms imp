@@ -1,0 +1,23 @@
+**DBMS important questions**
+
+Explain the client/server architecture and ER model in detail?
+
+what is reational database and explain the different types of commands(DDL,TCL,DCL)?
+
+some questions like he give the normal info abut the table structure and ask to create a table and insert the data?
+
+Explain the operators and list the aggregate operators?
+
+explain different types of keys?
+
+explain the joins in detail?
+
+Disscuss about normalization and their types?
+
+List and explain the ACID properties?
+
+explain the 2-phase locking?
+
+practice the queries 
+
+concurency control and recovery algorithem
